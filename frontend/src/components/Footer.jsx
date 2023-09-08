@@ -7,7 +7,7 @@ const Footer = () => {
   return(
     <footer>
       <Container>
-        <div class="d-flex justify-content-between d-flex align-items-center">
+        <div className="d-flex justify-content-between d-flex align-items-center">
           <div>
             Fantastical Finds built by Laura Mejia Celis &copy;  {currentYear}
           </div>
